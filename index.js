@@ -4,9 +4,9 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Chúc ding ngọc tuổi mới luôn luôn xinh đẹp, cười nhiều hơn và bớt trầm tính nhe ʕ•ᴥ•ʔ",
-  "Luôn được ăn nhiều đồ ngon mà không béo, ăn mau chóng lớn để còn làm trùm trường RMIT nhe (︶^︶)",
-  "Thành người lớn rồi thì bớt khịa bạn lại nhe இдஇ"
+  "Chúc ding ngọc tuổi mới luôn luôn xinh đẹp, cười nhiều hơn và bớt trầm tính nhe 🌟",
+  "Luôn được ăn nhiều đồ ngon mà không béo, ăn mau chóng lớn để còn làm trùm trường RMIT nhe (✿◠‿◠)",
+  "Thành người lớn rồi thì bớt khịa bạn lại nhe (︶^︶)"
 ];
 
 giftBox.addEventListener('click', () => {
